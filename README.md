@@ -1477,6 +1477,11 @@ Depends on the language and settings used but in Bash for example, by default th
 </summary><br><b>
 </b></details>
 
+<details>
+<summary>Which option flags do you use on your scripts?
+</summary><br><b>
+</b></details>
+
 ## Scenarios
 
 Scenarios are questions which combine several subjects together. Some scenarios will
